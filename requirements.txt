@@ -1,0 +1,10 @@
+
+requests
+beautifulsoup4
+Pillow
+pyTelegramBotAPI
+flask
+python-dotenv
+psutil
+psutil
+python-dotenv
